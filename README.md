@@ -1,2 +1,3 @@
 # maquina-virtual
 Este repositório contém o resumo das lições aprendidas durante a criação de maquina virtual
+Criei uma máquina virtual do Windows no Portal do Azure para testar e utilizar recursos do Windows. Como trabalho com macOS, precisei instalar alguns programas no meu computador para conseguir acessar e gerenciar a VM: o Homebrew, para gerenciar pacotes e ferramentas de linha de comando; o PowerShell, para executar comandos e configurar a VM; e o Windows App (Microsoft Remote Desktop), para acessar remotamente a máquina virtual. Com essas ferramentas, consegui conectar à VM, testar funcionalidades e deixar o ambiente pronto para uso. /imagens 
